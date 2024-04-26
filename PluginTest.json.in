@@ -1,0 +1,11 @@
+{
+    "Name" : "PluginTest",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "Vendor" : "KDE",
+    "Copyright" : "(C) KDE",
+    "License" : "Put short license information here",
+    "Description" : "Put a short description of your plugin here",
+    "Url" : "https://www.kde.org",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
